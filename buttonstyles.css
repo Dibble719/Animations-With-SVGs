@@ -2,7 +2,10 @@
   --dark-color: #635bff;
   --light-color: #80e9ff;
 }
-
+body {
+    display: flex;
+    flex-direction: row;
+}
 svg {
   cursor: pointer;
 }
